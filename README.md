@@ -1,4 +1,4 @@
-# 📊 Portfolio Optimization & Risk Analysis using Python
+# 📊 Portfolio Optimization & Risk Analysis using Python and AI
 
 This project applies **Modern Portfolio Theory (MPT)** to optimize a real-world equity portfolio.  
 It uses live stock holdings, historical market data, and quantitative methods to identify the **Global Minimum Variance (GMV)** and **Maximum Sharpe Ratio** portfolios.
